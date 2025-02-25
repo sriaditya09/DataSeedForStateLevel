@@ -1,0 +1,6 @@
+@DataSeedForStateLevel_HostAddress = http://localhost:5094
+
+GET {{DataSeedForStateLevel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
